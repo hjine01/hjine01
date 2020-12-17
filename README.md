@@ -1,4 +1,4 @@
-### 에셋 저작권 경고로 모두 내렸습니다
+### 유료 에셋 저작권 경고로 모두 내렸습니다
 <!--
 **hjine01/hjine01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
