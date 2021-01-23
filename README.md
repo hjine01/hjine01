@@ -1,4 +1,7 @@
 ### 유료 에셋 저작권 경고로 모두 내렸습니다
+
+[![hjine01's github stats](https://github-readme-stats.vercel.app/api?username=hjine01&show_icons=true&hide_border=true)](https://github.com/hjine01)
+
 <!--
 **hjine01/hjine01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
