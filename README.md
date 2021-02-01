@@ -1,4 +1,4 @@
-### 유료 에셋 저작권 경고로 프로젝트들은 모두 내렸습니다
+### 유료 에셋 저작권 경고로 프로젝트 저장소들은 모두 내렸습니다
 [![hjine01's github stats](https://github-readme-stats.vercel.app/api?username=hjine01&show_icons=true&hide_border=true)](https://github.com/hjine01)
 
 <!--
